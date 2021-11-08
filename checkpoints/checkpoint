@@ -1,0 +1,2 @@
+model_checkpoint_path: "eckpt"
+all_model_checkpoint_paths: "eckpt"
